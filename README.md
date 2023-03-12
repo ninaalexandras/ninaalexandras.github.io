@@ -1,3 +1,3 @@
 # ninaalexandras.github.io
 
-Testataan Githubia :)
+Koulutehtävä 6B palautus. 
